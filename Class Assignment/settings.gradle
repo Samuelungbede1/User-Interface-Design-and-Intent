@@ -1,0 +1,2 @@
+rootProject.name = "ClassAssignment"
+include ':app'
